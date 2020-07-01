@@ -35,11 +35,13 @@ Die Navigation ist das Herzstück der MDM Web-Anwendungen. Sie soll klar erkennb
 Gibt es Unterkategorien, können diese durch ein Submenü dargestellt werden, um tiefer in einen Bereich einzutauchen. Trotzdem sollte es möglich sein den Hauptnavigationspunkt auszuwählen und dann eine Übersichtsseite anzuzeigen, die alle Themen der Unterpunkte aufgreift, weil viele Nutzer mit der Anzahl und Funktion eines Submenüs überfordert sind. 
 
 ### Branding Moment
-Das Branding soll sich konsistent durch alle Berührungspunkt mit der Marke durchziehen. (Print, E-Mail, Website). Dabei kann es sich um bestimmte Farben handeln, die überall gleich Anwendung finden, sowie die Einbindung des Logos. Einheitliches Wording über alle Web-Anwendungen hinweg ist ebenfalls ein wichtiger Aspekt bei der Unterstützung der Markenbildung.
+Das Branding soll sich konsistent durch alle Berührungspunkt mit der Marke durchziehen. (Print, E-Mail, Website). Dabei kann es sich um bestimmte Farben handeln, die überall gleich Anwendung finden, sowie die Einbindung des Logos.  
+Einheitliches Wording über alle Web-Anwendungen hinweg ist ebenfalls ein wichtiger Aspekt bei der Unterstützung der Markenbildung.
 
+#### User Experience
 Erfolgreiches Branding beinhaltet auch gute User Experience. Funktioniert die Webseite gut, werden Hilfestellungen gegeben und ist die Ansprache angenehm, dann ist es sehr wahrscheinlich, dass Nutzer das positive Erlebnis im Kopf behalten und wiederkommen.  
-Das bezieht sich auch auf die Marketingmails nach einer Bestellung. Ist dort eine zu hohe werbliche Frequenz, sind die Nutzer genervt und fühlen sich verfolgt, was zu einer schlechten User Experience führt und einer hohen unsubscribe Rate.  
-Kurz gesagt: die richtigen Inhalte zur richtigen Zeit in der richtigen Menge. 
+Das bezieht sich auch auf die Marketingmails nach einer Bestellung. Ist dort eine zu hohe werbliche Frequenz, sind die Nutzer genervt und fühlen sich verfolgt, was zu einer schlechten User Experience und damit zu einer hohen Absprungrate führen kann.  
+> Kurz gesagt: die richtigen Inhalte zur richtigen Zeit in der richtigen Menge. 
 
 ### Suche
 Eine ausführlichere Darstellung der Suche wird in Kürze [hier](./components.md) zu finden sein.

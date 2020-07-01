@@ -1,8 +1,8 @@
 # Komponenten
-> Eine Auswahl der verwendeten UI-Komponenten in MDM Web-Anwendungen
+> In Kürze wird hier Auswahl der verwendeten UI-Komponenten in MDM Web-Anwendungen dokumentiert
 
-## Button
-Weil's **immer** mit dem Button anfängt, wenn man über Komponenten spricht.
+## Buttons
+Weil's **immer** mit dem Button anfängt, wenn man über Komponenten spricht. :wink:
 
-## Suche
+## Die Suche :mag:
 Suchet, so werdet ihr finden.
