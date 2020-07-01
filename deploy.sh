@@ -4,12 +4,11 @@
 set -e
 
 # build
-npm run start
+npm run build
 
 # navigate into the build output directory
-cd docs/.vuepress/dist
+cd docs
 
-git init
 git add -A
 git commit -m 'deploy'
 
