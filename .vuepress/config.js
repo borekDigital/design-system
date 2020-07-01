@@ -8,7 +8,7 @@ module.exports = {
   ],
   patterns: ['**/*.md', '!**/node_modules'],
   plugins: ['vuepress-plugin-medium-zoom'],
-  base: '/material-study/',
+  base: '/design-system/',
   dest: './docs',
   themeConfig: {
     // GitHub-Repo is default
