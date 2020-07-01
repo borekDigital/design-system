@@ -1,0 +1,16 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "description": "Design System for all MDM related web applications",
+  "repository": "https://github.com/borekDigital/design-system",
+  "author": "borek.digital",
+  "license": "MIT",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-medium-zoom": "^1.1.8"
+  }
+}
